@@ -129,27 +129,27 @@ npm install
 
 **微信小程序**
 
-![wx_home](http://www.yjnbs.com/car/p1.png)
+![商户管理](https://github.com/sccpt/car/blob/main/car/p1.png)
 
-![wx_order](http://www.yjnbs.com/car/p6.png)
+![全部门店](https://github.com/sccpt/car/blob/main/car/p2.png)
 
-![wx_food](http://www.yjnbs.com/car/p7.png)
+![全部车辆](https://github.com/sccpt/car/blob/main/car/p3.png)
 
-![wx_my](http://www.yjnbs.com/car/p8.png)
+![全部订单](https://github.com/sccpt/car/blob/main/car/p4.png)
 
 **后台**
 
-![room](http://www.yjnbs.com/car/index.png)
+![首页](https://github.com/sccpt/car/blob/main/car/index.png)
 
-![order](http://www.yjnbs.com/car/my.png)
+![我的](https://github.com/sccpt/car/blob/main/car/my.png)
 
-![food_order](http://www.yjnbs.com/car/buy.png)
+![下单](https://github.com/sccpt/car/blob/main/car/buy.png)
 
-![food_order](http://www.yjnbs.com/car/time.png)
+![时间控件](https://github.com/sccpt/car/blob/main/car/time.png)
 
-![food_order](http://www.yjnbs.com/car/car.png)
+![车型列表](https://github.com/sccpt/car/blob/main/car/car.png)
 
-![food_order](http://www.yjnbs.com/car/order.png)
+![订单中心](https://github.com/sccpt/car/blob/main/car/order.png)
 
 ## 感谢支持
 
