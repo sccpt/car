@@ -127,7 +127,7 @@ npm install
 
 ## 界面截图
 
-**小程序**
+**后台管理端**
 
 ![商户管理](https://github.com/sccpt/car/blob/main/car/p1.png)
 
@@ -137,7 +137,7 @@ npm install
 
 ![全部订单](https://github.com/sccpt/car/blob/main/car/p4.png)
 
-**后台**
+**小程序端**
 
 ![首页](https://github.com/sccpt/car/blob/main/car/index.png)
 
