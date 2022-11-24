@@ -127,7 +127,7 @@ npm install
 
 ## 界面截图
 
-**微信小程序**
+**小程序**
 
 ![商户管理](https://github.com/sccpt/car/blob/main/car/p1.png)
 
