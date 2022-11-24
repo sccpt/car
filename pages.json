@@ -1,0 +1,235 @@
+{
+  "pages": [
+    {
+      "path": "pages/index",
+      "style": {
+        "navigationBarTitleText": "任我行"
+      }
+    },
+    {
+      "path": "pages/login",
+      "style": {
+        "navigationBarTitleText": "任我行"
+      }
+    },
+    {
+      "path": "pages/mine/index",
+      "style": {
+        "navigationBarTitleText": "我的"
+      }
+    },
+    {
+      "path": "pages/mine/info/index",
+      "style": {
+        "navigationBarTitleText": "个人信息"
+      }
+    },
+    {
+      "path": "pages/mine/info/edit",
+      "style": {
+        "navigationBarTitleText": "编辑资料"
+      }
+    },
+    {
+      "path": "pages/mine/pwd/index",
+      "style": {
+        "navigationBarTitleText": "修改密码"
+      }
+    },
+    {
+      "path": "pages/mine/setting/index",
+      "style": {
+        "navigationBarTitleText": "设置"
+      }
+    },
+    {
+      "path": "pages/mine/violation/index",
+      "style": {
+        "navigationBarTitleText": "违章查询"
+      }
+    },
+    {
+      "path": "pages/mine/violation/details",
+      "style": {
+        "navigationBarTitleText": "违章详情"
+      }
+    },
+    {
+      "path": "pages/mine/violation/damage",
+      "style": {
+        "navigationBarTitleText": "车损详情"
+      }
+    },
+    {
+      "path": "pages/mine/driver/index",
+      "style": {
+        "navigationBarTitleText": "驾驶员管理"
+      }
+    },
+    {
+      "path": "pages/mine/driver/form",
+      "style": {
+        "navigationBarTitleText": "新增驾驶员"
+      }
+    },
+    {
+      "path": "pages/common/webview/index",
+      "style": {
+        "navigationBarTitleText": "浏览网页"
+      }
+    },
+    {
+      "path": "pages/common/textview/index",
+      "style": {
+        "navigationBarTitleText": "浏览文本"
+      }
+    },
+    {
+      "path": "pages/message/index",
+      "style": {
+        "navigationBarTitleText": "消息"
+      }
+    },
+    {
+      "path": "pages/order/index",
+      "style": {
+        "navigationBarTitleText": "订单"
+      }
+    },
+    {
+      "path": "pages/order/details",
+      "style": {
+        "navigationBarTitleText": "订单详情"
+      }
+    },
+    {
+      "path": "pages/order/buy",
+      "style": {
+        "navigationBarTitleText": "确认订单"
+      }
+    },
+    {
+      "path": "pages/order/cancel",
+      "style": {
+        "navigationBarTitleText": "取消原因"
+      }
+    },
+    {
+      "path": "pages/understood/index",
+      "style": {
+        "navigationBarTitleText": "租车须知"
+      }
+    },
+    {
+      "path": "pages/buy/business",
+      "style": {
+        "navigationBarTitleText": "商家评论"
+      }
+    },
+    {
+      "path": "pages/buy/map",
+      "style": {
+        "navigationBarTitleText": "商家地图"
+      }
+    },
+    {
+      "path": "pages/buy/comment",
+      "style": {
+        "navigationBarTitleText": "发表评价"
+      }
+    },
+    {
+      "path": "pages/other/sxz",
+      "style": {
+        "navigationBarTitleText": "随心租保障"
+      }
+    },
+    {
+      "path": "pages/other/zhima",
+      "style": {
+        "navigationBarTitleText": "信用免押"
+      }
+    },
+    {
+      "path": "pages/other/alipay",
+      "style": {
+        "navigationBarTitleText": "芝麻免押"
+      }
+    },
+    {
+      "path": "pages/other/zhinan",
+      "style": {
+        "navigationBarTitleText": "租车指南"
+      }
+    },
+    {
+      "path": "pages/car/index",
+      "style": {
+        "navigationBarTitleText": "车型列表"
+      }
+    },
+    {
+      "path": "pages/other/xieyi",
+      "style": {
+        "navigationBarTitleText": "用户租车协议"
+      }
+    },
+    {
+      "path": "pages/other/zhengce",
+      "style": {
+        "navigationBarTitleText": "隐私政策"
+      }
+    },
+    {
+      "path": "pages/ad/details",
+      "style": {
+        "navigationBarTitleText": "详情"
+      }
+    },
+    {
+      "path": "pages/choice/city",
+      "style": {
+        "navigationBarTitleText": "选择城市"
+      }
+    },
+    {
+      "path": "pages/choice/town",
+      "style": {
+        "navigationBarTitleText": "选择地点"
+      }
+    }
+  ],
+  "tabBar": {
+    "color": "#000000",
+    "selectedColor": "#40C883",
+    "borderStyle": "#f1f1f1",
+    "fontSize": "24rpx",
+    "height": "120rpx",
+    "backgroundColor": "#ffffff",
+    "list": [
+      {
+        "pagePath": "pages/index",
+        "iconPath": "static/images/tabbar/home.png",
+        "selectedIconPath": "static/images/tabbar/home_.png",
+        "text": "首页"
+      },
+      {
+        "pagePath": "pages/order/index",
+        "iconPath": "static/images/tabbar/order.png",
+        "selectedIconPath": "static/images/tabbar/order_.png",
+        "text": "订单"
+      },
+      {
+        "pagePath": "pages/mine/index",
+        "iconPath": "static/images/tabbar/mine.png",
+        "selectedIconPath": "static/images/tabbar/mine_.png",
+        "text": "我的"
+      }
+    ]
+  },
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "任我行",
+    "navigationBarBackgroundColor": "#FFFFFF"
+  }
+}
